@@ -1,0 +1,10 @@
+{
+  "imageUrls": [
+    {
+      "image1": "/static/image/12.jpg"
+    },
+    {
+      "image2": "/static/image/image2.png"
+    }
+  ]
+}
